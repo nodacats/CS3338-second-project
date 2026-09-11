@@ -1,0 +1,45 @@
+commit eddc62de24b0c89d0fa1eda15f47e15925dc9a42
+Merge: 9f67b6e 3771319
+Author: nodacats <fabianjoelsantana@gmail.com>
+Date:   Thu Sep 10 22:26:00 2026 -0700
+
+    Resolved conflict
+
+commit 377131911adb0867265deac230f6736c2dd52960
+Author: nodacats <fabianjoelsantana@gmail.com>
+Date:   Thu Sep 10 22:22:12 2026 -0700
+
+    Added Favorite Movie
+
+commit 9f67b6eca0d332210aba870dea730491bcf544e2
+Author: nodacats <fabianjoelsantana@gmail.com>
+Date:   Thu Sep 10 22:15:55 2026 -0700
+
+    Added favorite food
+
+commit feb5e730a77faf1feb8f5c8d568b91d37f1061f4
+Author: nodacats <fabianjoelsantana@gmail.com>
+Date:   Thu Sep 10 22:12:29 2026 -0700
+
+    Added README.md
+
+commit 23eb5a9ea5d3fb0950ee6db9d68c4802d8ac9021
+Merge: 1d2bfc0 4b11b1d
+Author: Fabian Santana <152911120+nodacats@users.noreply.github.com>
+Date:   Fri Sep 4 13:14:31 2026 -0700
+
+    Merge pull request #1 from nodacats/info-fill
+    
+    Filled in personal information
+
+commit 4b11b1de126c90af2644986c3a4df6bf87938a74
+Author: nodacats <fabianjoelsantana@gmail.com>
+Date:   Fri Sep 4 13:07:24 2026 -0700
+
+    Filled in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
